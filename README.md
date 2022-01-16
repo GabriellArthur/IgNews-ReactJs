@@ -79,6 +79,9 @@ $ yarn install
 $ yarn dev
 
 # The server will initialize in the <http://localhost:3000>
+
+#criei um arquivo com o nome "env.local" e 
+#Siga as informações do "env.local.exemple"
 ```
 
 
